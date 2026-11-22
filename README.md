@@ -1,24 +1,73 @@
-# 💫 About Me:
-Merhaba, ben TRJ! 👋<br><br>Siber Güvenlik ve Yazılım alanlarında tutkulu bir geliştiriciyim.<br>Terminal tabanlı, hızlı ve etkili çözümler üretmek benim işim. Projelerimi GitHub’da açık kaynak olarak paylaşarak topluluğa katkı sağlamayı seviyorum.<br><br>---<br><br>## Kullandığım Teknolojiler 🚀<br><br>🐍 Python — Terminal tabanlı bilgi toplama, otomasyon ve güvenlik araçları geliştirmek için<br>🐙 Git & GitHub — Projeleri versiyonlamak ve açık kaynakta paylaşmak için<br>🖥️ Terminal / Komut Satırı — Penetrasyon testi ve hızlı komut tabanlı çözümler için<br>🤖 Telegram Bot API — Uzaktan komut kontrolü ve otomasyon botları yapmak için<br>🌐 Whois, DNS, IP Sorgulamaları — Ağ ve domain keşfi, istihbarat toplama için<br>🔍 Subdomain Taraması (Sublist3r & crt.sh) — Hedef sistemlerin alt alan adlarını bulmak için<br>🛡️ Port Tarama & Ağ Güvenlik Testleri — Açık port tespiti ve temel saldırı önlemleri için<br>🧰 Sızma Testi ve Bilgi Toplama Araçları — Terminal tabanlı pratik güvenlik projeleri geliştirmek için<br>⚙️ N8N — Otomatikleştirilmiş iş akışları ve entegrasyonlar için<br>🌐 Whois, DNS, IP Sorgulamaları — Hedef keşfi ve ağ istihbaratı için<br>🎯 Subdomain Taraması (Sublist3r & crt.sh) — Penetrasyon testlerinde hedef yüzeyini genişletmek için<br>🕵️‍♂️ Bilgi Toplama ve Keşif — Siber saldırı öncesi istihbarat toplama süreçleri<br>💥 Metasploit Framework — Exploit geliştirme ve saldırı simülasyonları için<br>📡 Wireshark — Ağ trafiği analizi ve paket yakalama çalışmaları için<br>🚀 Port Tarama & Ağ Güvenlik Testleri — Açık portlar ve zafiyetleri tespit etmek için<br><br>Teknoloji benim tutkum, öğrenmekse yaşam tarzım.<br>Yeni projeler ve iş birlikleri için her zaman açığım!<br>İletişim kurmak istersen, profilimden ulaşabilirsin.<br><br><br>🚀 Haydi, kodla ve keşfet!
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/daria-stanilevici/daria-stanilevici/main/assets/about_daria.gif" width="100%" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/FamousDefacer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/furkankinalix) 
+# TRJ | Siber Güvenlik
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SanaldunyaDONKISOTU&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SanaldunyaDONKISOTU&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanaldunyaDONKISOTU&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Siber Güvenlik Meraklısı | SOC Analyst Adayı | Güvenlik Aracı Geliştiricisi**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SanaldunyaDONKISOTU&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SanaldunyaDONKISOTU&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+## 💫 Hakkımda
+
+Merhaba, ben TRJ! 👋
+
+Siber güvenlik alanında kendimi geliştiren, sistemlerin ve ağların çalışma mantığını anlamaya odaklanan bir siber güvenlik meraklısıyım.
+
+Hedefim, **SOC Analyst** olarak profesyonel kariyerime başlamak ve siber güvenlik alanında sağlam teknik temellere sahip bir uzman olmak.
+
+Linux, ağ teknolojileri, güvenlik analizleri ve terminal tabanlı araçlar üzerine çalışıyorum. Kullandığım araçların yalnızca nasıl çalıştırıldığını değil, arka planda nasıl çalıştığını da öğrenmeye önem veriyorum.
+
+## 🛠️ Teknik Beceriler ve Araçlar
+
+| Alan | Teknolojiler |
+|---|---|
+| İşletim Sistemleri | Linux, Kali Linux, Windows |
+| Ağ Teknolojileri | TCP/IP, DNS, HTTP/HTTPS, ARP, DHCP, VLAN |
+| Ağ Analizi | Wireshark, Nmap |
+| Bilgi Toplama | WHOIS, DIG, NSLOOKUP, Sublist3r, crt.sh |
+| Güvenlik Testleri | Metasploit, Burp Suite, SQLmap |
+| Programlama | Python, Bash, PHP |
+| Veritabanı | MySQL |
+| Otomasyon | Python Scripts, Telegram Bot API |
+| Sanallaştırma | VirtualBox, VMware |
+
+## 📚 Şu Anda Öğreniyorum
+
+- SOC Operations ve SIEM temelleri
+- Log analizi ve güvenlik olaylarının incelenmesi
+- Wazuh, Security Onion ve ELK Stack
+- Incident Detection & Response
+- Network Traffic Analysis
+- Linux sistem yönetimi
+- Threat Intelligence ve Threat Hunting
+
+## 🚀 Üzerinde Çalıştığım Projeler
+
+- Terminal tabanlı bilgi toplama ve keşif araçları
+- Ağ tarama ve analiz araçları
+- Python ile siber güvenlik otomasyonları
+- Telegram Bot API entegrasyonlu güvenlik araçları
+- Uygulamalı siber güvenlik laboratuvarları
+
+## 🎯 Hedeflerim
+
+- Profesyonel bir SOC Analyst olmak
+- Linux ve ağ teknolojilerinde güçlü bir temel oluşturmak
+- SIEM platformlarını etkin şekilde kullanabilmek
+- Python ve Bash ile güvenlik araçları geliştirmek
+- Siber güvenlik olaylarını analiz edebilecek teknik yetkinliğe ulaşmak
+
+## 🤝 Benimle Bağlantı Kur
+
+- GitHub: [@SanaldunyaDONKISOTU](https://github.com/SanaldunyaDONKISOTU)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SanaldunyaDONKISOTU&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Araçları kullanmayı öğrenmekle yetinme, nasıl çalıştıklarını da anla."
+
+<div align="center">
+
+**Profilimi ziyaret ettiğin için teşekkürler!** 👨‍💻
+
+</div>
